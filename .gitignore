@@ -1,0 +1,19 @@
+# IDE user config
+node_modules
+.DS_Store
+dist
+.idea
+.history
+.vscode
+
+/**/.DS_Store
+/**/node_modules/
+/**/.env
+# /**/dist
+docs/**/dist
+
+# Logs
+/**/yarn-error.log
+/**/npm-debug.log
+/**/lerna-debug.log
+/**/.pnpm-debug.log

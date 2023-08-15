@@ -1,0 +1,22 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev --port 8090",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.10",
+    "vuepress-plugin-demo-container": "^0.2.0"
+  },
+  "dependencies": {
+    "@chancheng/components": "workspace:*",
+    "@chancheng/pro-sqltiptree": "workspace:*"
+  },
+  "resolutions": {
+    "webpack-hot-middleware": "2.25.0",
+    "html-entities": "1.4.0"
+  }
+}
