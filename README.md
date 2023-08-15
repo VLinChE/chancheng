@@ -1,6 +1,6 @@
-# @jack/xx 集合仓库
+# @产城/xx 集合仓库
 
-**@jack**是一个采用了 `pnpm + workspace + changeset` 的**monorepo**多包管理组件化项目，当前技术栈为 vue2 相关生态为主（公司实际需求背景），项目设计是按照使用场景进行划分，目前主要包括基础组件、高级组件、工具类库等。
+**@产城**是一个采用了 `pnpm + workspace + changeset` 的**monorepo**多包管理组件化项目，当前技术栈为 vue2 相关生态为主（公司实际需求背景），项目设计是按照使用场景进行划分，目前主要包括基础组件、高级组件、工具类库等。
 
 子项目统一维护在 `packages/*`目录下，本项同时配套有文档网站系统（`docs`）、开发调试的真实模拟环境（`examples`），并做了 TypeScript 的支持，完善的项目工程化规范，包括但不限于 `ESlint`/`Prettier`/`CommitLint`
 
